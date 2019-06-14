@@ -193,3 +193,8 @@ i {
 .rules:hover .rules-tip {
     visibility: visible;
 }
+
+.footer {
+    padding-top:20px;
+    font-style: italic;
+}
